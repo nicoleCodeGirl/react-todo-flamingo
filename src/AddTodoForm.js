@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+// import React, { useState } from "react";
 
 function AddTodoForm(props) {
-  // Create a new state variable named todoTitle with an update function named setTodoTitle
-  const [todoTitle, setTodoTitle] = useState("");
+  // // Create a new state variable named todoTitle with an update function named setTodoTitle
+  // const [todoTitle, setTodoTitle] = useState("");
 
   const handleAddTodo = (event) => {
     // Prevent the default behavior of the form submit
